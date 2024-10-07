@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/https//visuraindula2001.github.io/portfolio/static/css/main.3070d6e3.css",
+    "main.js": "/https//visuraindula2001.github.io/portfolio/static/js/main.c6d53b4b.js",
+    "static/media/image.png": "/https//visuraindula2001.github.io/portfolio/static/media/image.4c1ab5e0cf928bb4c367.png",
+    "static/media/portfolio-1.png": "/https//visuraindula2001.github.io/portfolio/static/media/portfolio-1.6366a69b452f0176d01f.png",
+    "static/media/portfolio-2.png": "/https//visuraindula2001.github.io/portfolio/static/media/portfolio-2.323eae12db7118a491e7.png",
+    "static/media/logo.png": "/https//visuraindula2001.github.io/portfolio/static/media/logo.37271d55c17fc7af7f6a.png",
+    "static/media/github.png": "/https//visuraindula2001.github.io/portfolio/static/media/github.b15cff4761e1a2f5d430.png",
+    "static/media/LinkedIn-icon.png": "/https//visuraindula2001.github.io/portfolio/static/media/LinkedIn-icon.3b5d4554d4ca56357f8e.png",
+    "static/media/portfolio-3.png": "/https//visuraindula2001.github.io/portfolio/static/media/portfolio-3.cf72686e8af9656b54b2.png",
+    "static/media/ui-design.png": "/https//visuraindula2001.github.io/portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/https//visuraindula2001.github.io/portfolio/index.html",
+    "main.3070d6e3.css.map": "/https//visuraindula2001.github.io/portfolio/static/css/main.3070d6e3.css.map",
+    "main.c6d53b4b.js.map": "/https//visuraindula2001.github.io/portfolio/static/js/main.c6d53b4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3070d6e3.css",
+    "static/js/main.c6d53b4b.js"
+  ]
+}
